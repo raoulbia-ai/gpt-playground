@@ -1,0 +1,4 @@
+# langchain
+langchain-experimental
+openai==0.28
+python-dotenv

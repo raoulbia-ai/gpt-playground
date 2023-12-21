@@ -1,0 +1,5 @@
+pyautogen==0.1.14
+litellm==0.14.1
+flask
+waitress
+tenacity
